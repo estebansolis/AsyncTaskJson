@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/estebansolis/Documents/AsyncTaskJson2/AsyncTaskJson/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="/Users/estebansolis/Documents/AsyncTaskJson2/AsyncTaskJson/build/intermediates/pre-dexed/debug/android-support-v4-8f175cfd46723bc2477ac4b79b02feb2d388152f.jar" />
+    </item>
+
+</items>
